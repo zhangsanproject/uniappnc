@@ -11,6 +11,6 @@
 体验小程序  
 ![image.png](https://github.com/zhangsanproject/uniappnc/raw/master/static/pages/images/qrcode.png)  
 如需接受微信通知，请先关注公众号  
-![image.png](https://cdn.fastadmin.net/uploads/2022/10/12/7bb5fad244cb931399549aec9faffeca.png)  
+![image.png](https://github.com/zhangsanproject/uniappnc/raw/master/static/pages/images/7bb5fad244cb931399549aec9faffeca.png)  
 [后台网址](https://tn.rdtxgj.com/MNQYRauFiC.php/index/login "体验网址")  
 账号：test 密码：testtest  
