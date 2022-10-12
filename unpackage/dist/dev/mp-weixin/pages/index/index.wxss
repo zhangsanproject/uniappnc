@@ -1,0 +1,67 @@
+
+page {
+    background-color: #ffd700;
+}
+.section-bg0 image {
+    width: 100%;
+}
+.section-bg1 {
+    box-sizing: border-box;
+    text-align: center;
+}
+.section-bg1 image {
+    width: 100%;
+}
+.section-btns {
+    margin: -180rpx 0 -70rpx;
+    text-align: center;
+}
+.section-btns .btn {
+    display: inline-block;
+    width: 80%;
+    height: 92rpx;
+    line-height: 90rpx;
+    margin-top: 26rpx;
+    border-radius: 50rpx;
+    position: relative;
+}
+.section-btns .btn-lingqu {
+    font-size: 40rpx;
+    background-color: #3f270b;
+    color: #f8e71c;
+}
+.section-btns .btn-tiyan {
+    font-size: 36rpx;
+    background-color: #fff;
+    color: #3f270b;
+}
+.section-btns .icon-arrow {
+    display: block;
+    width: 40rpx;
+    position: absolute;
+    right: 15%;
+    top: 50%;
+    -webkit-transform: translate(0, -50%);
+            transform: translate(0, -50%);
+}
+.section-step {
+    margin-top: -80rpx;
+}
+.section-step .img2 {
+    text-align: center;
+}
+.section-step .img2 image {
+    width: 85%;
+}
+.section-step .msg {
+    text-align: center;
+    color: #666;
+    font-size: 28rpx;
+}
+.section-step .telephone {
+    text-align: center;
+    color: #666;
+    font-size: 28rpx;
+    padding: 5rpx 0 40rpx;
+}
+

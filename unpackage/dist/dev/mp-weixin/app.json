@@ -1,0 +1,47 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/bindCarnumber/bindCarnumber",
+    "pages/experienceCode/experienceCode",
+    "pages/noticeCarowner/noticeCarowner",
+    "pages/codeList/codeList",
+    "pages/reciveWay/reciveWay",
+    "pages/problemList/problemList",
+    "pages/orderList/orderList",
+    "pages/me/me",
+    "pages/orderConfirm/orderConfirm"
+  ],
+  "subPackages": [],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#ffd700",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#999",
+    "selectedColor": "#3f270b",
+    "backgroundColor": "#fff",
+    "borderStyle": "white",
+    "list": [
+      {
+        "selectedIconPath": "static/pages/images/nav-index-active.png",
+        "iconPath": "static/pages/images/nav-index.png",
+        "pagePath": "pages/index/index",
+        "text": "挪车码"
+      },
+      {
+        "selectedIconPath": "static/pages/images/nav-me-active.png",
+        "iconPath": "static/pages/images/nav-me.png",
+        "pagePath": "pages/me/me",
+        "text": "我的"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于小程序位置接口的效果展示"
+    }
+  },
+  "plugins": {},
+  "usingComponents": {}
+}

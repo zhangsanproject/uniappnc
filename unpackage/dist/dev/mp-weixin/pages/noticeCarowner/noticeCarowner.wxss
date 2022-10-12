@@ -1,0 +1,77 @@
+
+page {
+    height: 100%;
+    background-color: #ffd700;
+    padding: 50rpx 80rpx 0;
+    position: relative;
+}
+.section-bg1 {
+    position: relative;
+}
+.section-bg1 .bg {
+    width: 100%;
+}
+.section-bg1 .carbox {
+    width: 50%;
+    position: absolute;
+    top: 155rpx;
+    left: 0;
+    text-align: center;
+}
+.section-bg1 .carbox .bg1 {
+    width: 100%;
+    position: absolute;
+    top: 0rpx;
+    left: 0rpx;
+}
+.section-bg1 .carbox .text {
+    display: block;
+    margin-top: 45rpx;
+    font-size: 50rpx;
+    position: relative;
+    z-index: 2;
+}
+.section-bg2 {
+    width: 100%;
+}
+.section-bg2 .bg {
+    width: 100%;
+}
+.section-btns {
+    text-align: center;
+    padding: 50rpx 0 0;
+}
+.buyqrcodes {
+    text-align: center;
+    padding: 50rpx 0 0;
+}
+.section-btns .btn {
+    display: block;
+    height: 92rpx;
+    line-height: 92rpx;
+    background-color: #3f270b;
+    color: #fff;
+    border-radius: 200rpx;
+    font-size: 36rpx;
+}
+.section-btns .disabled {
+    background-color: #bbb;
+}
+.section-btns .buyqrcode {
+    background-color: black;
+}
+.section-btns .section-tips {
+    color: #3f270b;
+    font-size: 30rpx;
+    padding: 0 0 30rpx;
+}
+.section-telephone {
+    text-align: center;
+    color: #666;
+    font-size: 28rpx;
+    position: absolute;
+    left: 0;
+    bottom: 30rpx;
+    width: 100%;
+}
+

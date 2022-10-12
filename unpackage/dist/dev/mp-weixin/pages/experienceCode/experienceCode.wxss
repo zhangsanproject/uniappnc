@@ -1,0 +1,86 @@
+
+page {
+    padding: 20rpx 55rpx;
+    background-color: #ffd700;
+}
+.section-1 {
+    padding: 0 0 30rpx;
+}
+.section-1 .row1 {
+    text-align: center;
+    font-size: 36rpx;
+    color: #000;
+}
+.section-1 .row2 {
+    text-align: center;
+    font-size: 28rpx;
+    color: #000;
+    padding: 5rpx 0;
+}
+.section-qrcode {
+    position: relative;
+    padding: 140rpx;
+}
+.section-qrcode .bgborder {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.section-qrcode .code {
+    width: 100%;
+    position: relative;
+    top: 30rpx;
+    z-index: 2;
+}
+.section-2 {
+    text-align: center;
+    font-size: 24rpx;
+    color: #3f270b;
+    padding: 10rpx 0 0;
+}
+.section-2 .color {
+    color: #f66477;
+}
+.btns .btn {
+    height: 90rpx;
+    line-height: 90rpx;
+    background-color: #3f270b;
+    color: #fff;
+    font-size: 30rpx;
+    text-align: center;
+    margin-top: 30rpx;
+}
+.btns .btn0 {
+    background-color: #fff;
+    color: #000;
+    margin-top: 50rpx;
+}
+.section-carinfo {
+    text-align: center;
+    padding: 30rpx 0 15px;
+}
+.section-carinfo text {
+    display: block;
+    font-size: 32rpx;
+    color: #000;
+}
+.section-switch {
+    text-align: center;
+}
+.section-switch text {
+    display: block;
+    padding-top: 10px;
+    font-size: 26rpx;
+    color: #777;
+}
+.cont-customer-telephone {
+    text-align: center;
+    color: #666;
+    font-size: 28rpx;
+    position: absolute;
+    left: 0;
+    bottom: 20rpx;
+    width: 100%;
+}
+

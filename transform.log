@@ -1,0 +1,32 @@
+!!! NULL docs activeTextEditor return null
+buffer sync supports: []
+event: [{"range":{"end":{"character":19,"line":106},"start":{"character":27,"line":69}},"rangeLength":850,"rangeOffset":2768,"text":""}]
+buffer sync supports: [{"fileName":"e:/mywww/miniprograms_uni/pages/bindCarnumber/bindCarnumber.vue","textChanges":[{"newText":"","start":{"line":70,"offset":28},"end":{"line":107,"offset":20}}]}]
+cancel last request:0
+cancel last request:0
+sendEvent willSaveTextDocument
+buffer sync supports: []
+diagnostics.$changeMany
+buffer sync supports: []
+diagnostics.$changeMany
+buffer sync supports: []
+diagnostics.$changeMany
+buffer sync supports: []
+diagnostics.$changeMany
+buffer sync supports: []
+diagnostics.$changeMany
+buffer sync supports: []
+diagnostics.$changeMany
+buffer sync supports: []
+diagnostics.$changeMany
+buffer sync supports: []
+diagnostics.$changeMany
+buffer sync supports: []
+cancel last request:0
+event: [{"range":{"end":{"character":10,"line":33},"start":{"character":15,"line":29}},"rangeLength":190,"rangeOffset":1531,"text":""}]
+buffer sync supports: [{"fileName":"e:/mywww/miniprograms_uni/pages/bindCarnumber/bindCarnumber.vue","textChanges":[{"newText":"","start":{"line":30,"offset":16},"end":{"line":34,"offset":11}}]}]
+sendEvent willSaveTextDocument
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
