@@ -9,7 +9,7 @@
 6、支持微信公众号消息通知，将用户引流到微信公众号，增加公众号粉丝。  
 后台暂不开源，有需要后台的朋友可以联系微信：tunan6666666  
 体验小程序  
-![image.png](https://cdn.fastadmin.net/uploads/2022/10/12/f3f3c5632d5b48e7b05bdf47082c7773.jpg)  
+![image.png](https://github.com/zhangsanproject/uniappnc/raw/master/static/pages/images/qrcode.png)  
 如需接受微信通知，请先关注公众号  
 ![image.png](https://cdn.fastadmin.net/uploads/2022/10/12/7bb5fad244cb931399549aec9faffeca.png)  
 [后台网址](https://tn.rdtxgj.com/MNQYRauFiC.php/index/login "体验网址")  
