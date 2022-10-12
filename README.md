@@ -8,9 +8,9 @@
 5、提供多种隐私电话通知方式供用户选择。  
 6、支持微信公众号消息通知，将用户引流到微信公众号，增加公众号粉丝。  
 后台暂不开源，有需要后台的朋友可以联系微信：tunan6666666  
-体验小程序  
+体验小程序微信小程序搜索：挪帮帮  
 ![image.png](https://github.com/zhangsanproject/uniappnc/raw/master/static/pages/images/qrcode.png)  
-如需接受微信通知，请先关注公众号  
+如需接受微信通知，请先关注公众号:钰龙商贸  
 ![image.png](https://github.com/zhangsanproject/uniappnc/raw/master/static/pages/images/7bb5fad244cb931399549aec9faffeca.png)  
 [后台网址](https://tn.rdtxgj.com/MNQYRauFiC.php/index/login "体验网址")  
 账号：test 密码：testtest  
