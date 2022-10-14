@@ -1,5 +1,5 @@
 # 插件介绍
-匿名通知用户挪车，保护用户和车主隐私，前端小程序采用uniapp开发，后端采用php+mysql
+匿名通知用户挪车，保护用户和车主隐私，前端小程序采用uniapp开发，后端采用php+mysql  
 # 功能特性
  1、用户可以通过扫描小程序码联系到车主  
 2、采用匿名通话的方式，用户只能在有效期内拨打车主电话，过期失效，从而保护车主和用户隐私。  
@@ -9,8 +9,8 @@
 6、支持微信公众号消息通知，将用户引流到微信公众号，增加公众号粉丝。  
 后台暂不开源，有需要后台的朋友可以联系微信：tunan6666666  
 体验小程序微信小程序搜索：挪帮帮  
-![image.png](https://github.com/zhangsanproject/uniappnc/raw/master/static/pages/images/qrcode.png)  
+![image.png](https://cdn.fastadmin.net/uploads/2022/10/12/f3f3c5632d5b48e7b05bdf47082c7773.jpg)  
 如需接受微信通知，请先关注公众号:钰龙商贸  
-![image.png](https://github.com/zhangsanproject/uniappnc/raw/master/static/pages/images/7bb5fad244cb931399549aec9faffeca.png)  
+![image.png](https://cdn.fastadmin.net/uploads/2022/10/12/7bb5fad244cb931399549aec9faffeca.png)  
 [后台网址](https://tn.rdtxgj.com/MNQYRauFiC.php/index/login "体验网址")  
 账号：test 密码：testtest  
